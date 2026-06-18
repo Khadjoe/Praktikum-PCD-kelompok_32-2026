@@ -26,6 +26,5 @@ Model klasifikasi pada project:
 | Percobaan 1 | Grayscale → Resize → Median Filter |
 | Percobaan 2 | Grayscale → Resize → Histogram Equalization → Median Filter |
 | Percobaan 3 | Grayscale → Resize → Median Filter → Sobel → Roberts |
-Opening |
 
 ---
