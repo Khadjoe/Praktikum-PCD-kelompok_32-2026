@@ -11,6 +11,7 @@ Project ini merupakan implementasi Pengolahan Citra Digital (PCD) untuk melakuka
 - daun black rot
 
 Tujuan utama: 
+menemukan metode klasifikasi yang paling akurat untuk menegenali penyakit daun anggur dari citra, dengan cara membandingkan 3 algoritma (KNN, SVM, Random Forest) yang sama-sama menggunakan fitur tekstur GLCM dari daun yang sudah di-preprocessing sebelumnya.
 
 Model klasifikasi pada project:
 - K-Nearest Neighbors (KNN)
